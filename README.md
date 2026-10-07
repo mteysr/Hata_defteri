@@ -12,6 +12,7 @@ Yanlışlarını kaydet, aralıklı tekrar ile unutma, Genel Kültür Akademisi 
 ![Hive](https://img.shields.io/badge/DB-Hive-FFB300)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20macOS-lightgrey)
 ![Offline](https://img.shields.io/badge/100%25-Offline-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 </div>
 
@@ -141,6 +142,12 @@ Hata Defteri **tamamen offline** çalışır. Tüm verilerin (hatalar, fotoğraf
 3. Değişikliklerini commit'le: `git commit -m "feat: yeni özellik"`
 4. Branch'ini push'la: `git push origin feature/yeni-ozellik`
 5. Pull Request aç 🎉
+
+---
+
+## 📄 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ---
 
