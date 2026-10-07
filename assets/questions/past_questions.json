@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1001,
+    "category": "Tarih",
+    "topic": "II. Meşrutiyet Dönemi",
+    "difficulty": "Orta",
+    "question": "Osmanlı Devleti'nde,\n\nI. Tanzimat Fermanı'nın ilanı\nII. Islahat Fermanı'nın ilanı\nIII. 31 Mart Olayı'nın bastırılması\n\ngelişmelerinden hangileri, mevcut anayasal düzene karşı olanlara bir tepkidir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Soruda sayılan olaylardan da sadece 31 Mart olayı II. Meşrutiyet ilanına tepki olarak istanbul'da çıkarılmıştır. Dolayısıyla doğru yanıt Yalnız III'tür."
+  },
+  {
+    "id": 1002,
+    "category": "Tarih",
+    "topic": "Kurtuluş Savaşı Antlaşmaları",
+    "difficulty": "Orta",
+    "question": "I. Kars, Sarıkamış, Kağızman, Kulp ve Iğdır'ın yeniden Türk topraklarına katılması\nII. Batum'un Gürcistan'a bırakılması\nIII. Kafkas petrollerinin işletilmesi\n\nYukarıdakilerden hangileri, Gümrü Antlaşması'nın kapsamındadır?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kars, Sarıkamış, Kağızman, Kulp ve Iğdır Gümrü Antlaşması ile Türkiye'ye verilmiştir. Batum'un Gürcistan'a verilmesi ve Kafkas petrollerinin işletilmesi maddeleri Kars Anlaşması hükümleri arasındadır. Dolayısıyla doğru yanıt Yalnız I'dir."
+  },
+  {
+    "id": 1003,
+    "category": "Tarih",
+    "topic": "Osmanlı Teşkilat Yapısı",
+    "difficulty": "Kolay",
+    "question": "Osmanlı Devleti'ne parlamento kavramı aşağıdakilerden hangisiyle gelmiştir?",
+    "options": [
+      "Divan-ı Hümayun",
+      "Saltanat Şurası",
+      "Kanun-i Esasi",
+      "Vilayet Nizamnamesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Osmanlı devletinde parlamento kavramı 1876 yılında Kanun - i Esasi ile ortaya çıkmıştır."
+  },
+  {
+    "id": 1004,
+    "category": "Tarih",
+    "topic": "Osmanlı Vergi Sistemi",
+    "difficulty": "Orta",
+    "question": "Osmanlı Devleti'nde,\n\nI. Yöneticiler\nII. Hanedan üyeleri\nIII. Azınlıklar\n\ngruplarından hangileri Cizye Vergisi ödemekle yükümlüydü?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cizye, Osmanlı Devleti'nde azınlıklardan askerlik bedeli olarak alınan vergidir."
+  },
+  {
+    "id": 1005,
+    "category": "Tarih",
+    "topic": "Milli Mücadele Kongreleri",
+    "difficulty": "Orta",
+    "question": "I. Alaşehir Kongresi\nII. Sivas Kongresi\nIII. Afyon Kongresi\nIV. Erzurum Kongresi\n\nYukarıdaki kongrelerden hangilerinde, Manda ve Himayenin reddi kararı alınmıştır?",
+    "options": [
+      "I ve II",
+      "I ve III",
+      "II ve IV",
+      "II, III ve IV"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İlk olarak Erzurum Kongresi'nde manda ve himayeye karşı çıkılmış daha sonra Sivas Kongresi'nde kesin olarak reddedilmiştir. Dolayısıyla doğru yanıt II ve IV'tür."
+  },
+  {
+    "id": 1006,
+    "category": "Tarih",
+    "topic": "Osmanlı Hukuk Belgeleri",
+    "difficulty": "Zor",
+    "question": "Osmanlılar'da,\n\nI. Ferman\nII. Fetva\nIII. Berat\n\nbelgelerinden hangileri padişah tarafından verilirdi?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ferman ve Berat padişah tarafından verilirdi. Fetva verme yetkisi ise Şeyhülislam'a aittir."
+  },
+  {
+    "id": 1007,
+    "category": "Tarih",
+    "topic": "Milli Mücadele Dönemi",
+    "difficulty": "Orta",
+    "question": "Türkiye, Fener Rum Patrikhanesi'nin istanbul'dan çıkartılması isteğini aşağıdakilerden hangisiyle ilgili görüşmelerde dile getirmiştir?",
+    "options": [
+      "Lozan Antlaşması",
+      "Ankara Antlaşması",
+      "Mudanya Antlaşması",
+      "İstanbul Antlaşması"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türkiye aleyhinde çalışmalar yapan Fener rum Patrikhanesi 1923 yılında Lozan Antlaşması istanbul'da çıkarılmak istenmiştir."
+  },
+  {
+    "id": 1008,
+    "category": "Tarih",
+    "topic": "Milli Mücadele İşgaller",
+    "difficulty": "Kolay",
+    "question": "Anlaşma Devletleri Anadolu'yu aşağıdakilerden hangisine dayanarak işgal etmişlerdir?",
+    "options": [
+      "Londra Antlaşması",
+      "Sevr Antlaşması",
+      "Paris Antlaşması",
+      "Mondros Mütarekesi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "İtilaf Devletleri Mondros Mütarekesi 7. maddesi uyarınca kendileri ile tehlike oluşturabilecek karışıklık olarak yerleri işgal etmişlerdir."
+  },
+  {
+    "id": 1009,
+    "category": "Tarih",
+    "topic": "Cumhuriyet Dönemi Hukuk",
+    "difficulty": "Kolay",
+    "question": "Cumhuriyet Dönemi'nde erkeğin aile konumuyla ilgili ayrıcalıkları büyük ölçüde aşağıdakilerin hangisiyle kaldırılmıştır?",
+    "options": [
+      "Laiklik ilkesinin Anayasa güvencesine alınması",
+      "Türkiye'nin Milletler Cemiyeti'ne üye olması",
+      "Medeni Kanun'un kabul edilmesi",
+      "Çok partili hayata geçilmesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Medeni Kanunun kabulü (1926) ile toplumdaki kadın - erkek ilişkileri düzenlemeyi çalışmış ve eşit haklara sahip olmaları sağlanmıştır."
+  },
+  {
+    "id": 1010,
+    "category": "Tarih",
+    "topic": "Cumhuriyet Dönemi Siyaset",
+    "difficulty": "Orta",
+    "question": "Terakkiperver Cumhuriyet Fırkası, aşağıdaki ilkelerden hangisini kötüye kullanarak Şeyh Sait Ayaklanması'na ortam hazırlamıştır?",
+    "options": [
+      "Halkçılık",
+      "Devletçilik",
+      "Milliyetçilik",
+      "Laiklik"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Terakkiperver Cumhuriyet Fırkası halkın dini duygularını kötüye kullanıp Şeyh Sait ayaklanmasına neden olmuş dolayısıyla laiklik ilkesini çiğnemişlerdir."
+  },
+  {
+    "id": 1011,
+    "category": "Tarih",
+    "topic": "Cumhuriyet Dönemi Eğitim",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi, Millet Mekteplerinin amaçlarından biridir?",
+    "options": [
+      "Basılan kitap sayısını artırmak",
+      "Okuma ve yazmada kolaylık sağlamak",
+      "Eğitim ve öğretimi birleştirmek",
+      "Okuma yazma oranını artırmak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Millet mektepleri okul çağına gelmiş vatandaşları okuma öğrenmeleri için kurulmuştur. Asıl amaç o dönemdeki okur - yazar sayısını arttırıp milletin daha bilinçli olmasını sağlamaktır."
+  },
+  {
+    "id": 1012,
+    "category": "Tarih",
+    "topic": "Milli Mücadele Siyasi",
+    "difficulty": "Zor",
+    "question": "I. Doğu Trakya\nII. İstanbul\nIII. Boğazlar\nIV. Batı Trakya\n\nMudanya görüşmelerinde yukarıdakilerden hangileriyle ilgili olarak bir karar alınmamıştır?",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "Yalnız IV",
+      "I, II ve III"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mudanya Ateşkes Antlaşması 11 Ekim 1922 de imzalandı. Anlaşmaya göre Doğu Trakya'yı Yunanlılar 15 gün içerisinde boşaltacaklar istanbul ve Boğazlarda ise Yunanlılar dışında Anlaşma Devletlerinde biri kalacaktı. Bu görüşmelerde de Batı Trakya'nın bahsi geçmemiştir."
+  },
+  {
+    "id": 1013,
+    "category": "Coğrafya",
+    "topic": "Türkiye'nin Bitki Örtüsü",
+    "difficulty": "Orta",
+    "question": "Yurdumuzda 12 binden fazla bitki çeşidinin bulunmasında aşağıdakilerden hangisinin etkisi en azdır?",
+    "options": [
+      "Toprak yapısının çeşitlilik göstermesi",
+      "Farklı iklim tiplerinin görülmesi",
+      "Akarsu rejimlerinin farklılık göstermesi",
+      "Yer şekillerinin engebeli ve dağlık olması"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bitki örtüsünün çeşitliliği toprağa ve iklime bağlı olarak artış ya da azalış gösterir. Akarsu rejiminin farklılık göstermesi bitki çeşitliliğini sağlayacak bir neden olarak gösterilemez."
+  },
+  {
+    "id": 1014,
+    "category": "Coğrafya",
+    "topic": "Nüfus Yoğunluğu",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki eşleştirilmiş bölgelerden hangisinde nüfus yoğunluğu öteki verilenlerden fazladır?",
+    "options": [
+      "Marmara - Ege",
+      "Karadeniz - iç Anadolu",
+      "Ege - Akdeniz",
+      "iç Anadolu - Güneydoğu Anadolu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir bölgenin nüfus yoğunluğu; o nüfusunun yüzölçümüne bölünmesiyle elde edilir. Eşleştirilen bölgelerden Marmara ve Ege Bölgesi sanayi bakımından çok gelişmiş bölgeler oldukları için fazla nüfusa sahiptirler."
+  },
+  {
+    "id": 1015,
+    "category": "Coğrafya",
+    "topic": "Yerleşim Coğrafyası",
+    "difficulty": "Orta",
+    "question": "Yurdumuzda kimi yerleşim birimleri ilk konumlarında bırakılmamış yer değişikliğine gidilmiştir.\n\nAşağıdakilerden hangisi, bu tür değişikliklere neden olan etkenlerden olamaz?",
+    "options": [
+      "Yapılacak baraj gölünün altında kalacak olması",
+      "Doğal afetlerin tehdidinde olması",
+      "Yeni endüstri kuruluşlarına uzak kalması",
+      "idari bölümlemelerde değişiklik olması"
+    ],
+    "correctAnswer": 3,
+    "explanation": "idari bölünüşte gerçekleşen değişiklikler, yerleşim biriminin yerini değiştirmez. Örneğin; Kırıkkale, Ankara'ya bağlı bir ilçeyken, Ankara'dan ayrılarak il olmuştur; fakat yeri değişmemiştir."
+  },
+  {
+    "id": 1016,
+    "category": "Coğrafya",
+    "topic": "Fiziki Coğrafya (Bölgeler)",
+    "difficulty": "Kolay",
+    "question": "Yurdumuzun yedi coğrafi bölgesi farklı özellikler gösterir. Buna göre yurdumuzun, diğerlerine göre ortalama yükseltisi daha az, tarım alanlarının payı daha yüksek ve sulama olanakları daha çok olan bölgesi aşağıdaki­lerden hangisidir?",
+    "options": [
+      "Karadeniz",
+      "Marmara",
+      "Doğu Anadolu",
+      "iç Anadolu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Marmara Bölgesi'nde ortalama yükselti ve engebenin az olması tarım alanlarını, sermaye birikiminin fazla olması ise sulama imkanlarını artırmıştır."
+  },
+  {
+    "id": 1017,
+    "category": "Coğrafya",
+    "topic": "Mikroklima İklimler",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisinin Güneydoğu Anadolu'nun kimi yerlerinde yetiştirilebilmesi, bu bölgede Akdeniz iklimi görüldüğünün bir kanıtıdır?",
+    "options": [
+      "Mercimek",
+      "Buğday",
+      "Kayısı",
+      "Zeytin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Zeytin, Akdeniz iklimini en iyi tanıtan tarım ürünüdür. Güneydoğu Anadolu'da bazı yerlerde yetişmesi, buralarda Akdeniz iklimi görüldüğünün en iyi kanıtıdır."
+  },
+  {
+    "id": 1018,
+    "category": "Coğrafya",
+    "topic": "Tarım Coğrafyası",
+    "difficulty": "Orta",
+    "question": "Kimi ürünler farklı ovalarda yetişir. Buna göre Gediz Ovası'nın lklim ve toprak koşullarında yetiştirilebilen bir tarım ürününün, aşağıdaki ovaların hangisinde yetiştirilebilmesi beklenir?",
+    "options": [
+      "Çarşamba",
+      "Ergene",
+      "Çukurova",
+      "Elazığ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gediz, Ege Bölgesi'ndedir. Burada yetişen ürünler Akdeniz iklimiyle yetişebilen ürünlerdir. Aynı tarım ürünleri yine Akdeniz ikliminin etkili olduğu Çukurova'da yetiştirilebilir."
+  },
+  {
+    "id": 1019,
+    "category": "Coğrafya",
+    "topic": "Enerji Kaynakları",
+    "difficulty": "Orta",
+    "question": "Yurdumuzda en fazla elektrik enerjisi aşağıdaki barajların hangisinde elde edilir?",
+    "options": [
+      "Hirfanlı",
+      "Karakaya",
+      "Atatürk",
+      "Keban"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sorunun sorulduğu dönemde Atatürk Barajı tam kapasite hizmete girmemiştir. Dolayısıyla o döneme göre yanıt Keban Barajı'dır. Fakat günümüzde en fazla elektrik üreten barajımız Atatürk'tür."
+  },
+  {
+    "id": 1020,
+    "category": "Coğrafya",
+    "topic": "Dış Ticaret",
+    "difficulty": "Kolay",
+    "question": "Türkiye aşağıdakilerden hangisini ihraç etmemektedir?",
+    "options": [
+      "Çay",
+      "Fındık",
+      "Tütün",
+      "Pamuk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türkiye'de çay sadece Karadeniz Bölgesi'nde yetiştirildiğinden ürün ancak ülke ihtiyacını karşılamaktadır. Bu sebeple çay ihraç edilmemektedir."
+  },
+  {
+    "id": 1021,
+    "category": "Vatandaşlık",
+    "topic": "1982 Anayasası (Seçimler)",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi ya da hangileri 1 982 Anayasa'sına göre doğrudan doğruya halkın oylarıyla seçilerek göreve gelir?",
+    "options": [
+      "Cumhurbaşkanı ve TBMM üyeleri",
+      "TBMM üyeleri, belediye başkanları, muhtarlar",
+      "Başbakan ve belediye başkanları",
+      "TBMM üyeleri, Başbakan ve bakanlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1982 Anayasa'sına göre, TBMM üyeleri, belediye başkanları, muhtarlar doğrudan doğruya halkın oylarıyla seçilip iş başına geçerler."
+  },
+  {
+    "id": 1022,
+    "category": "Vatandaşlık",
+    "topic": "1982 Anayasası (Hükümet)",
+    "difficulty": "Zor",
+    "question": "1 982 Anayasasına göre, hangi bakanların TBMM seçimlerinden önce çekilmeleri ve yerlerine bağımsızların atanması gerekir?",
+    "options": [
+      "Ekonomiden Sorumlu Devlet Bakanı, Adalet, Dışişleri",
+      "içişleri, MSB, Ulaştırma",
+      "Adalet, içişleri, Ulaştırma",
+      "Adalet, MEB, MSB"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1982 Anayasasına göre Adalet, iç işleri ve Ulaştırma Bakanlarının TBMM seçimlerinden önce çekilmeleri ve yerlerine bağımsız, yeni, tarafsız kişilerin atanması gerekir."
+  },
+  {
+    "id": 1023,
+    "category": "Vatandaşlık",
+    "topic": "Seçim İlkeleri",
+    "difficulty": "Kolay",
+    "question": "Ü lkemizde yapılan seçimlerde sıkça kullanılan \"Genel Oy\" kavramı ne demektir?",
+    "options": [
+      "Milletvekili genel seçimlerinde ülke genelinde kullanılmış olan oyların tümü",
+      "Milletvekili veya yerel yönetim seçimlerinde seçmen kütüğüne kayıtlı olan seçmenlerin tümü",
+      "Her vatandaşın, milletvekili veya yerel yönetim seçimlerinde, yaş ve sezginlik dışında başka bir nitelik aranmadan oy hakkına sahip olması.",
+      "Bir siyasal partinin milletvekili seçimlerinde ülke genelinde aldığı oyların tümü"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Genel oy; her vatandaşın, milletvekili veya yerel yönetim seçimlerinde yaş ve sezginlik dışında başka bir nitelik aranmadan oy hakkına sahip olmasıdır."
+  },
+  {
+    "id": 1024,
+    "category": "Vatandaşlık",
+    "topic": "Anayasa Hukuku",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi ''yarı doğrudan demokrasi\" araçlarından biridir?",
+    "options": [
+      "Milletvekillerinin kanun teklif edebilmesi",
+      "Cumhurbaşkanının yayımlamayı uygun bulmadığı kanunları bir kez daha görüşülmek üzere yasama organına geri gönderebilmesi",
+      "Anayasa değişikliklerinin halk oyuna sunulması",
+      "Bakanlar Kurulunun KHK çıkarabilmesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Anayasa değişikliklerinin halk oyuna sunulması referandum yarı doğrudan demokrasi araçlarından biridir."
+  },
+  {
+    "id": 1025,
+    "category": "Vatandaşlık",
+    "topic": "Hukuk Kurumları",
+    "difficulty": "Orta",
+    "question": "Yargı yetkisi Türkiye tarafından da kabul edilmiş olan i nsan Hakları Mahkemesi hangi uluslararası ku ru luş içinde yer almaktadır?",
+    "options": [
+      "Avrupa Birliği",
+      "Birleşmiş Milletler",
+      "Avrupa Konseyi",
+      "NATO"
+    ],
+    "correctAnswer": 2,
+    "explanation": "insan hakları mahkemesi, Avrupa Konseyi bünyesinde yer alır."
+  },
+  {
+    "id": 1026,
+    "category": "Vatandaşlık",
+    "topic": "Hukuk Güvenceleri",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi \"doğal yargıç (kanuni hakim)\" güvencesinin bır sonucudur?",
+    "options": [
+      "Hiç kimsenin kanunen tabi olduğu mahkemeden başka bir merci önünde yargılanmaması",
+      "Görülecek davaya göre olağanüstü yargılama mercilerinin kurulabilmesi",
+      "Herkesin dilediği kişiye karşı dava açabilmesi",
+      "Herkesin dilediği yerde dava açabilmesi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hiç kimsenin kanunen tabi olduğu mahkemeden başka bir merci önünde yargılanmaması \"doğal yargıç\" güvencesinin bir sonucudur."
+  },
+  {
+    "id": 1027,
+    "category": "Vatandaşlık",
+    "topic": "Kamu Tüzel Kişiliği",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisinin kamu tüzel kişiliği yoktur?",
+    "options": [
+      "Belediyeler",
+      "Üniversiteler",
+      "il Özel idareleri",
+      "Bakanlıklar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bakanlıklar devleti temsil ettiklerinden devlet tüzel kişilikleri vardır. Bu kurumlarda ayrıca kamu tüzel kişiliği yoktur."
+  }
+]

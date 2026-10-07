@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "category": "Tarih",
+    "question": "Eski Türklerde devletin iki kanada (Doğu-Batı) bölünerek yönetilmesine ne denir?",
+    "answer": "İkili Teşkilat"
+  },
+  {
+    "id": 2,
+    "category": "Tarih",
+    "question": "Türk tarihinin bilinen ilk şairi ve yazarı kimdir?",
+    "answer": "Aprın Çur Tigin"
+  },
+  {
+    "id": 3,
+    "category": "Tarih",
+    "question": "Orhun Abideleri'ni (Göktürk Yazıtları) çözen Danimarkalı dil bilimci kimdir?",
+    "answer": "Wilhelm Thomsen"
+  },
+  {
+    "id": 4,
+    "category": "Tarih",
+    "question": "İlk Türk-İslam yazılı edebi eseri olan 'Kutadgu Bilig' kime sunulmuştur?",
+    "answer": "Tabgaç Buğra Han"
+  },
+  {
+    "id": 5,
+    "category": "Tarih",
+    "question": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ilk savaş hangisidir?",
+    "answer": "Pasinler Savaşı (1048)"
+  },
+  {
+    "id": 6,
+    "category": "Tarih",
+    "question": "Osmanlı Devleti'nde ilk altın para hangi padişah döneminde bastırılmıştır?",
+    "answer": "Fatih Sultan Mehmet"
+  },
+  {
+    "id": 7,
+    "category": "Tarih",
+    "question": "Osmanlı'da veraset sistemini son kez değiştirerek 'Ekber ve Erşed' sistemini getiren padişah kimdir?",
+    "answer": "I. Ahmet"
+  },
+  {
+    "id": 8,
+    "category": "Tarih",
+    "question": "Yavuz Sultan Selim'in Mısır Seferi sonucunda Osmanlı'ya katılan kutsal emanetler nerede korunmaktadır?",
+    "answer": "Topkapı Sarayı Mukaddes Emanetler Dairesi"
+  },
+  {
+    "id": 9,
+    "category": "Tarih",
+    "question": "Osmanlı Devleti'nin ilk geçici elçisi Yirmisekiz Mehmet Çelebi hangi şehre gönderilmiştir?",
+    "answer": "Paris"
+  },
+  {
+    "id": 10,
+    "category": "Tarih",
+    "question": "Kırım'ın bağımsız olduğu ve Osmanlı'nın ilk kez halkı Müslüman bir toprağı kaybettiği antlaşma hangisidir?",
+    "answer": "Küçük Kaynarca Antlaşması (1774)"
+  },
+  {
+    "id": 11,
+    "category": "Tarih",
+    "question": "II. Mahmut döneminde kurulan ve Yeniçeri Ocağı'nın kaldırılmasından sonra kurulan ordunun adı nedir?",
+    "answer": "Asakir-i Mansure-i Muhammediye"
+  },
+  {
+    "id": 12,
+    "category": "Tarih",
+    "question": "Milli Mücadele'nin gerekçesi, amacı ve yönteminin ilk kez belirtildiği belge hangisidir?",
+    "answer": "Amasya Genelgesi"
+  },
+  {
+    "id": 13,
+    "category": "Tarih",
+    "question": "Milli sınırlardan (Misak-ı Milli) ilk kez nerede bahsedilmiştir?",
+    "answer": "Erzurum Kongresi"
+  },
+  {
+    "id": 14,
+    "category": "Tarih",
+    "question": "Mustafa Kemal Atatürk'ün 'Siz orada yalnız düşmanı değil, milletin makus talihini de yendiniz' telgrafını gönderdiği zafer hangisidir?",
+    "answer": "II. İnönü Muharebesi"
+  },
+  {
+    "id": 15,
+    "category": "Tarih",
+    "question": "Mustafa Kemal'e 'Gazilik' unvanı ve 'Müşerref' (Mareşallik) rütbesi hangi savaştan sonra verilmiştir?",
+    "answer": "Sakarya Meydan Muharebesi"
+  },
+  {
+    "id": 16,
+    "category": "Tarih",
+    "question": "Lozan Antlaşması'nda çözülemeyerek Türkiye ile İngiltere arasındaki ikili görüşmelere bırakılan sınır hangisidir?",
+    "answer": "Irak Sınırı (Musul Sorunu)"
+  },
+  {
+    "id": 17,
+    "category": "Tarih",
+    "question": "Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",
+    "answer": "İsmet İnönü"
+  },
+  {
+    "id": 18,
+    "category": "Tarih",
+    "question": "Atatürk'ün Nutuk adlı eseri hangi yılları (tarih aralığını) kapsamaktadır?",
+    "answer": "1919 - 1927"
+  },
+  {
+    "id": 19,
+    "category": "Tarih",
+    "question": "Boğazlar üzerindeki Türk egemenliğini tam olarak sağlayan antlaşma hangisidir?",
+    "answer": "Montrö Boğazlar Sözleşmesi (1936)"
+  },
+  {
+    "id": 20,
+    "category": "Tarih",
+    "question": "1974 Kıbrıs Barış Harekatı sırasında Türkiye'nin Başbakanı kimdir?",
+    "answer": "Bülent Ecevit"
+  },
+  {
+    "id": 21,
+    "category": "Coğrafya",
+    "question": "Türkiye'nin en kuzey noktası neresidir?",
+    "answer": "Sinop - İnceburun"
+  },
+  {
+    "id": 22,
+    "category": "Coğrafya",
+    "question": "Türkiye'de kış saati ve yaz saati uygulamalarında ulusal saat olarak kullanılan boylam derecesi kaçtır?",
+    "answer": "45° Doğu Boylamı (Iğdır)"
+  },
+  {
+    "id": 23,
+    "category": "Coğrafya",
+    "question": "Karstik aşınım şekillerinin en büyüğü (en genişi) hangisidir?",
+    "answer": "Polye"
+  },
+  {
+    "id": 24,
+    "category": "Coğrafya",
+    "question": "Türkiye'nin en yüksek tatlı su gölü hangisidir?",
+    "answer": "Çıldır Gölü"
+  },
+  {
+    "id": 25,
+    "category": "Coğrafya",
+    "question": "Akdeniz ikliminin tipik toprak tipi olan, demir oksit oranı yüksek kırmızı renkli toprak hangisidir?",
+    "answer": "Terra Rossa"
+  },
+  {
+    "id": 26,
+    "category": "Coğrafya",
+    "question": "Türkiye'de rüzgar aşındırma ve biriktirme faaliyetlerinin en etkili olduğu bölge hangisidir?",
+    "answer": "İç Anadolu Bölgesi"
+  },
+  {
+    "id": 27,
+    "category": "Coğrafya",
+    "question": "Türkiye'de heyelan olaylarının en sık yaşandığı mevsim hangisidir?",
+    "answer": "İlkbahar (Kar erimeleri nedeniyle)"
+  },
+  {
+    "id": 28,
+    "category": "Coğrafya",
+    "question": "Türkiye'de nüfus yoğunluğu en az olan il hangisidir?",
+    "answer": "Tunceli"
+  },
+  {
+    "id": 29,
+    "category": "Coğrafya",
+    "question": "Türkiye'de doğalgazla çalışan en büyük termik santrallerden biri olan ova neresidir?",
+    "answer": "Kırklareli - Hamitabat"
+  },
+  {
+    "id": 30,
+    "category": "Coğrafya",
+    "question": "Ülkemizde taş kömürü rezervlerinin tamamı hangi havzada yer almaktadır?",
+    "answer": "Zonguldak Ereğli Havzası"
+  },
+  {
+    "id": 31,
+    "category": "Coğrafya",
+    "question": "Rüzgar gücüyle elektrik üretimi yapılan ilk rüzgar enerji santrali hangi ilimizde kurulmuştur?",
+    "answer": "İzmir (Alaçatı)"
+  },
+  {
+    "id": 32,
+    "category": "Coğrafya",
+    "question": "Türkiye'de bor minerallerinin en zengin yataklarının bulunduğu ilimiz hangisidir?",
+    "answer": "Eskişehir (Kırka)"
+  },
+  {
+    "id": 33,
+    "category": "Coğrafya",
+    "question": "Ülkemizde pamuk üretiminde birinci sırada yer alan coğrafi bölgemiz hangisidir?",
+    "answer": "Güneydoğu Anadolu Bölgesi (GAP ile birlikte)"
+  },
+  {
+    "id": 34,
+    "category": "Coğrafya",
+    "question": "Türkiye'de en uzun kıyı şeridine sahip olan denizimiz hangisidir?",
+    "answer": "Ege Denizi (Girintili çıkıntılı yapısı nedeniyle)"
+  },
+  {
+    "id": 35,
+    "category": "Coğrafya",
+    "question": "Fırat Nehri üzerinde kurulu olan, Türkiye'nin en büyük hidroelektrik santrali barajı hangisidir?",
+    "answer": "Atatürk Barajı"
+  },
+  {
+    "id": 36,
+    "category": "Coğrafya",
+    "question": "Türkiye'nin en büyük milli parkı hangisidir?",
+    "answer": "Ağrı Dağı Milli Parkı"
+  },
+  {
+    "id": 37,
+    "category": "Coğrafya",
+    "question": "İç Anadolu'yu Akdeniz'e bağlayan Göksu Geçidi hangi dağlar üzerindedir?",
+    "answer": "Toros Dağları"
+  },
+  {
+    "id": 38,
+    "category": "Coğrafya",
+    "question": "Türkiye'nin en uzun sınır komşusu hangi ülkedir?",
+    "answer": "Suriye"
+  },
+  {
+    "id": 39,
+    "category": "Coğrafya",
+    "question": "Ülkemizde kümes hayvancılığının en çok geliştiği bölgelerin ortak özelliği nedir?",
+    "answer": "Büyük tüketim merkezlerine (nüfuslu şehirlere) yakınlık"
+  },
+  {
+    "id": 40,
+    "category": "Coğrafya",
+    "question": "Türkiye'nin sakin şehir (Cittaslow) unvanını alan ilk ilçesi hangisidir?",
+    "answer": "İzmir - Seferihisar"
+  },
+  {
+    "id": 41,
+    "category": "Vatandaşlık",
+    "question": "Hukuk kurallarının diğer sosyal düzen kurallarından en temel farkı nedir?",
+    "answer": "Maddi (Devlet destekli) yaptırıma sahip olması"
+  },
+  {
+    "id": 42,
+    "category": "Vatandaşlık",
+    "question": "Kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme iktidarına ne denir?",
+    "answer": "Fiil Ehliyeti"
+  },
+  {
+    "id": 43,
+    "category": "Vatandaşlık",
+    "question": "Kişilerin haklarını kazanırken uymaları gereken genel dürüstlük kuralı hangisidir?",
+    "answer": "Subjektif İyi Niyet"
+  },
+  {
+    "id": 44,
+    "category": "Vatandaşlık",
+    "question": "Devletin temel organlarını, yönetim biçimini ve vatandaşların haklarını düzenleyen en üst hukuk normu hangisidir?",
+    "answer": "Anayasa"
+  },
+  {
+    "id": 45,
+    "category": "Vatandaşlık",
+    "question": "Türk anayasa tarihinde 'ilk ve tek yumuşak' anayasa hangisidir?",
+    "answer": "1921 Anayasası (Teşkilat-ı Esasiye)"
+  },
+  {
+    "id": 46,
+    "category": "Vatandaşlık",
+    "question": "1982 Anayasası'na göre yasama yetkisi kime aittir?",
+    "answer": "Türkiye Büyük Millet Meclisi (TBMM)"
+  },
+  {
+    "id": 47,
+    "category": "Vatandaşlık",
+    "question": "TBMM genel seçimleri normal şartlarda kaç yılda bir yapılır?",
+    "answer": "5 yılda bir (Cumhurbaşkanı seçimi ile birlikte)"
+  },
+  {
+    "id": 48,
+    "category": "Vatandaşlık",
+    "question": "Bir milletvekilinin meclis çalışmalarındaki oy ve sözlerinden dolayı sorumlu tutulamamasına ne denir?",
+    "answer": "Yasama Sorumsuzluğu"
+  },
+  {
+    "id": 49,
+    "category": "Vatandaşlık",
+    "question": "TBMM'de siyasi parti grubu oluşturabilmek için en az kaç milletvekili gerekir?",
+    "answer": "20 milletvekili"
+  },
+  {
+    "id": 50,
+    "category": "Vatandaşlık",
+    "question": "Cumhurbaşkanı seçilebilmek için en az kaç yaşını doldurmuş olmak gerekir?",
+    "answer": "40 yaş"
+  },
+  {
+    "id": 51,
+    "category": "Vatandaşlık",
+    "question": "Olağanüstü Hal (OHAL) ilan etme yetkisi kime aittir?",
+    "answer": "Cumhurbaşkanı"
+  },
+  {
+    "id": 52,
+    "category": "Vatandaşlık",
+    "question": "Anayasa Mahkemesi üye sayısı kaçtır?",
+    "answer": "15 üye"
+  },
+  {
+    "id": 53,
+    "category": "Vatandaşlık",
+    "question": "Uyuşmazlık Mahkemesi başkanını hangi yargı organı kendi üyeleri arasından seçer?",
+    "answer": "Anayasa Mahkemesi"
+  },
+  {
+    "id": 54,
+    "category": "Vatandaşlık",
+    "question": "Siyasi partilerin kapatılması davasını açma yetkisi kime aittir?",
+    "answer": "Yargıtay Cumhuriyet Başsavcısı"
+  },
+  {
+    "id": 55,
+    "category": "Vatandaşlık",
+    "question": "Vali ve Kaymakam arasındaki hukuki denetim ilişkisine ne ad verilir?",
+    "answer": "Hiyerarşi"
+  },
+  {
+    "id": 56,
+    "category": "Vatandaşlık",
+    "question": "İl özel idaresinin en üst başı ve yürütme organı kimdir?",
+    "answer": "Vali"
+  },
+  {
+    "id": 57,
+    "category": "Vatandaşlık",
+    "question": "Köy muhtarını ve köy ihtiyar heyetini seçen, köydeki tüm seçmenlerden oluşan kurula ne denir?",
+    "answer": "Köy Derneği"
+  },
+  {
+    "id": 58,
+    "category": "Vatandaşlık",
+    "question": "Memurlar hakkında uygulanan en ağır disiplin cezası hangisidir?",
+    "answer": "Devlet memurluğundan çıkarma"
+  },
+  {
+    "id": 59,
+    "category": "Vatandaşlık",
+    "question": "Kamu Denetçiliği Kurumu (Ombudsmanlık) hangi organa bağlı olarak faaliyet gösterir?",
+    "answer": "TBMM Başkanlığı"
+  },
+  {
+    "id": 60,
+    "category": "Vatandaşlık",
+    "question": "Türkiye'nin üye olduğu, merkezi Cenevre'de bulunan uluslararası ticareti düzenleyen örgüt hangisidir?",
+    "answer": "Dünya Ticaret Örgütü (WTO)"
+  }
+]
