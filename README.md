@@ -1,0 +1,1 @@
+# Hata_defteri
